@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Youssef Ibrahim Mohamed-Salah</h1>
-<h3 align="center">🐞 Bug Hunter | 🐍 Python Developer</h3>
+<h3 align="center">🐞 Bug Hunter | 🐍 Python Developer | Network infrastructure</h3>
 
 ---
 

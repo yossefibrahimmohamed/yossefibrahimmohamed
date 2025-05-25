@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Youssef Ibrahim Mohamed-Salah</h1>
-<h3 align="center">🐞 Bug Hunter | 🐍 Python Developer | Network infrastructure</h3>
-
+<h3 align="center">🐞 Bug Hunter | 🐍 Python Developer | 🖥️ Network infrastructure </h3>
+<h3 align="center">Certified Huawei <a href="https://www.flaticon.com/free-icons/huawei" title="huawei icons">Huawei icons created by Freepik - Flaticon</a> | Cisco <a href="https://www.flaticon.com/free-icons/cisco" title="cisco icons">Cisco icons created by Freepik - Flaticon</a> </h3>
 ---
 
 - 🔭 I’m currently working on **Python automation and bug hunting projects**

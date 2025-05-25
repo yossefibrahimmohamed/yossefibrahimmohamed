@@ -1,9 +1,13 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Youssef Ibrahim Mohamed-Salah</h1>
 <h3 align="center">🐞 Bug Hunter | 🐍 Python Developer | 🖥️ Network infrastructure </h3>
-<h3 align="center"> Certified Huawei ![huawei](https://github.com/user-attachments/assets/e7ba771e-d357-4bc0-8f38-9fcbcf8f0bad)
- | Cisco![882832](https://github.com/user-attachments/assets/eca90300-2ee9-4641-86e9-a0b4dd2fcd52)
+<h3 align="center">
+  🎓 Certified by  
+  <img src="https://user-images.githubusercontent.com/your-huawei-image.png" alt="Huawei" width="100"/>
+  &nbsp;|&nbsp;
+  <img src="https://user-images.githubusercontent.com/your-cisco-image.png" alt="Cisco" width="100"/>
 </h3>
+
 ---
 
 - 🔭 I’m currently working on **Python automation and bug hunting projects**

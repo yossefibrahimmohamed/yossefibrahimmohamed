@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **advanced debugging, ethical hacking, and scripting**
 - 🤝 I’m looking to collaborate on **open-source security tools and Python libraries**
 - 💬 Ask me about **Python, clean code, debugging, and automation**
-- 📫 How to reach me: **abdelrahmanshaaban998@gmail.com**
+- 📫 How to reach me: **yossefmohamedsalah2001@gmail.com**
 
 ---
 

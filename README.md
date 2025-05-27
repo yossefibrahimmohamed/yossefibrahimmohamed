@@ -35,3 +35,4 @@
   <!-- Add or remove logos based on what you want shown -->
 </p>
 
+![ Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yossefibrahimmohamed&show_icons=true&theme=radical)

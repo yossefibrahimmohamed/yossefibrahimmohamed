@@ -38,5 +38,5 @@
 ![ Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yossefibrahimmohamed&show_icons=true&theme=radical)
 
 ### 💻 Tech Stack
-<img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" width="80" height="80"/>
 <!-- Add more icons here -->

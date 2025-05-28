@@ -36,3 +36,7 @@
 </p>
 
 ![ Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yossefibrahimmohamed&show_icons=true&theme=radical)
+
+### 💻 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<!-- Add more icons here -->

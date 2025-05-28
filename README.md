@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Youssef Ibrahim Mohamed-Salah</h1>
+## Hi 👋, I'm Youssef Ibrahim Mohamed-Salah
 <h3 align="center">🐞 Bug Hunter | 🐍 Python Developer | 🖥️ Network infrastructure </h3>
 <h3 align="center">
   🎓 Certified by  

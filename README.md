@@ -38,5 +38,5 @@
 ![ Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yossefibrahimmohamed&show_icons=true&theme=radical)
 
 ### 💻 Tech Stack
-[[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>](https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000)](https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000)
+<img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Python" width="40" height="40"/>
 <!-- Add more icons here -->
